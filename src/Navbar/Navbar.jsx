@@ -10,9 +10,10 @@ export default function Navbar() {
             className='' 
             >ESHOP</a>
           </div>
-
-
-
+          
+          <div>
+            Here's something else
+          </div>
         </div>
       </div>
     </div>
