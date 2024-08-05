@@ -3,7 +3,7 @@ import { FaCaretDown, FaCartShopping } from 'react-icons/fa6'
 import { IoMdSearch } from 'react-icons/io'
 import DarkMode from './DarkMode'
 
-export default function Navbar() {
+export default function Navbar({handleOrderPopup}) {
 
   const MenuLinks = [
     {
@@ -115,7 +115,7 @@ const DropdownLinks = [
 
 
               {/* Order-button SECTION */}
-              <button className='relative p-3'>
+              <button className='relative p-3' onClick={handleOrderPopup}>
                 <FaCartShopping
                 className='text-xl text-gray-600 darK:text-gray-400' 
                 />
