@@ -41,5 +41,7 @@ ecommerce-ui/
 
 ## Screenshots
 
-![Screenshot1](/src/assets/screenshots/home.png?raw=true "Optional Title")
+![Screenshot1](/src/assets/screenshots/home.png?raw=true "HOME")
+![Screenshot2](/src/assets/screenshots/middle.png?raw=true "MIDDLE")
+![Screenshot3](/src/assets/screenshots/footer.png?raw=true "FOOTER")
 ---
