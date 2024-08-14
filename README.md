@@ -31,7 +31,7 @@ This is a simple e-commerce UI application built using **React** and **Tailwind 
 ```
 ecommerce-ui/
 ├── public/
-├── src/
+├── src/ 
 │   ├── components/    # Reusable UI components
 │   ├── assets/        # Images and static assets
 │   ├── App.jsx        # Main application component
@@ -41,5 +41,5 @@ ecommerce-ui/
 
 ## Screenshots
 
-SCREENSHOTS
+![Screenshot1](/src/assets/screenshots/front.png?raw=true "Optional Title")
 ---
