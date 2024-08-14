@@ -41,5 +41,5 @@ ecommerce-ui/
 
 ## Screenshots
 
-![Screenshot1](/src/assets/screenshots/front.png?raw=true "Optional Title")
+![Screenshot1](/src/assets/screenshots/home.png?raw=true "Optional Title")
 ---
